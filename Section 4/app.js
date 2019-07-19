@@ -74,7 +74,7 @@ document.querySelector('.btn-hold').addEventListener('click',function()
     }
     else
     {
-        nextPLayer();
+        nextPLayer();s
     }
 
 });
